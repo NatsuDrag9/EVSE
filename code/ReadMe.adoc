@@ -12,7 +12,7 @@ This project implements a possible solution that monitors the power system’s f
 
 == Step 2: Assemble the circuit
 
-Assemble the circuit following the diagram [!schematic](https://github.com/NatsuDrag9/EVSE/blob/main/assets/arch_and_flowchart/Schematic_Connections.png)
+Assemble the circuit following the diagram ![schematic](./assets/arch_and_flowchart/Schematic_Connections.png)
 
 == Step 3: Load the code in Arduino IDE
 
