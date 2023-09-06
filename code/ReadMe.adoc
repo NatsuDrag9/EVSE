@@ -17,7 +17,3 @@ Assemble the circuit following the diagram assets/arch_and_flowchart/Schematic_C
 == Step 3: Load the code in Arduino IDE
 
 Upload the code contained in this sketch on to Arduiono MKR 1000
-
-
-....
-Link to the medium article describing this project is [here](https://rohitimandi.medium.com/electric-vehicle-supply-equipment-evse-b4101798ffc0)
